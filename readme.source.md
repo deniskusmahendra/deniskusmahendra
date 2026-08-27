@@ -76,7 +76,7 @@
 
 🗂️ Over the past several months, I've built end-to-end analytics projects using SQL, Python, Power BI, and BigQuery, focusing on sales performance, customer behavior, marketing funnel optimization, and inventory forecasting. Through these projects, I've learned how to translate data into actionable insights that support better business decisions.
 
-🎥 I also create beginner-friendly tutorials on SQL and data analytics tools on YouTube, where I share practical examples and explain technical concepts in a clear and structured way.
+🎥 I also create beginner-friendly SQL and data analytics tutorials on YouTube, strengthening my ability to communicate technical concepts clearly and translate data concepts into practical examples.
 
 ## 🛠 Toolbox
 
