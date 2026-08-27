@@ -2,6 +2,7 @@
 
 <p align="center">
 	<a href="https://denissamk.github.io/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=website&logoColor=22D3EE" alt="Portfolio Website" /></a>
+	<a href="https://www.youtube.com/@DenisSamKusmahen"><img src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/denissamk/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="mailto:denissamkusmahen@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1ji1PeWBmWnJwtZGsKh-BlzzDy1JIicd2/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
