@@ -14,6 +14,8 @@
 
 🗂️ Over the past several months, I've built end-to-end analytics projects using SQL, Python, Power BI, and BigQuery, focusing on sales performance, customer behavior, marketing funnel optimization, and inventory forecasting. Through these projects, I've learned how to translate data into actionable insights that support better business decisions.
 
+🎥 I also create beginner-friendly tutorials on SQL and data analytics tools on YouTube, where I share practical examples and explain technical concepts in a clear and structured way.
+
 ## 🛠 Toolbox
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=flat) ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat\&logo=googlebigquery\&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
