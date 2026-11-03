@@ -6,7 +6,7 @@
     #orbit { animation: orbit 24s linear infinite; transform-origin: 742px 151px; }
     #signal { animation: breathe 2.4s ease-in-out infinite; }
   `}</style>
-  <svg width="860" height="300" style={{ position: 'absolute', inset: 0 }}>
+  <svg width="860" height="300" style={{ position: 'absolute', top: -1, left: -1 }}>
     <defs>
       <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
         <path d="M 42 0 L 0 0 0 42" fill="none" stroke="rgba(36,52,71,.42)" strokeWidth="1" />
