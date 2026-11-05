@@ -41,7 +41,7 @@
   </div>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', width: 610 }}>
-    <span style={{ color: '#F8FAFC', fontSize: 40, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>Denis Sam Kusmahendra</span>
+    <span style={{ color: '#F8FAFC', fontSize: 40, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>Denis Kusmahendra</span>
     <span style={{ color: '#22D3EE', fontSize: 20, fontWeight: 700, marginTop: 12 }}>Data Analytics & Business Intelligence</span>
     <span style={{ color: '#94A3B8', fontSize: 17, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>Transforming raw business data into actionable insights.</span>
   </div>
@@ -64,7 +64,7 @@
 
 ## 👨‍💼 About Me
 
-👋 Hello! I'm Denis Sam Kusmahendra, a Statistics undergraduate at Jakarta State University passionate about Business Intelligence, Data Analytics, and leveraging data to solve real-world business problems.
+👋 Hello! I'm Denis Kusmahendra, a Statistics undergraduate at Jakarta State University passionate about Business Intelligence, Data Analytics, and leveraging data to solve real-world business problems.
 
 🗂️ Over the past several months, I've built end-to-end analytics projects using SQL, Python, Power BI, and BigQuery, focusing on sales performance, customer behavior, marketing funnel optimization, and inventory forecasting. Through these projects, I've learned how to translate data into actionable insights that support better business decisions.
 
